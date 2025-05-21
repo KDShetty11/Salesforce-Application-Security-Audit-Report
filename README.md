@@ -27,13 +27,13 @@ This repository contains a comprehensive security analysis of Salesforce Cloud i
 
 ### Access Control Gaps
 
-- **Over-Privileged Accounts**: 10-20% of users had unnecessary "Modify All Data" permissions [^8]
-- **Public Portal Exposure**: 45% of portals lacked IP whitelisting controls [^4]
+- **Over-Privileged Accounts**: 10-20% of users had unnecessary "Modify All Data" permissions
+- **Public Portal Exposure**: 45% of portals lacked IP whitelisting controls 
 
 
 ### Monitoring Deficiencies
 
-- **Log Retention**: 30-day retention window delayed breach detection [^5]
+- **Log Retention**: 30-day retention window delayed breach detection
 - **Real-Time Alerts**: Missing for 65% of high-risk activities [^1]
 
 ---
