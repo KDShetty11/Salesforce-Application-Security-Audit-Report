@@ -126,39 +126,21 @@ Security.updateMultiFactorAuthentication(mfaOptions);
 
 [^3]: https://github.com/othneildrew/Best-README-Template
 
-[^4]: https://data.research.cornell.edu/data-management/sharing/readme/
-
-[^5]: https://docs.gruntwork.io/guides/style/markdown-style-guide
-
 [^6]: https://help.salesforce.com/s/articleView?id=sf.security_overview_auditing.htm\&language=en_US\&type=5
 
 [^7]: https://crmninjas.io/salesforce-security-audit/
-
-[^8]: https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc
 
 [^9]: https://www.salesforceben.com/how-to-perform-salesforce-audits-beyond-a-health-check/
 
 [^10]: https://thesalesforcefirst.com/salesforce-security-audit/
 
-[^11]: https://www.readme-templates.com
-
 [^12]: https://help.salesforce.com/apex/HTViewHelpDoc?id=sales.spiff_report_audit.htm
-
-[^13]: https://github.com/durgeshsamariya/awesome-github-profile-readme-templates
 
 [^14]: https://www.maine.gov/oit/sites/maine.gov.oit/files/inline-files/SalesforceGovExecutiveSummary.pdf
 
-[^15]: https://www.makeareadme.com
-
 [^16]: https://support.catonetworks.com/hc/en-us/articles/24373083875869-Configuring-the-Salesforce-Application-Control-via-API-with-Audit-Activities-Integrations
 
-[^17]: https://www.reddit.com/r/programming/comments/l0mgcy/github_readme_templates_creating_a_good_readme_is/
-
 [^18]: https://www.owndata.com/blog/when-sox-meets-salesforce-apps-navigating-compliance-from-an-auditors-perspective
-
-[^19]: https://www.hatica.io/blog/best-practices-for-github-readme/
-
-[^20]: https://www.markdownguide.org/cheat-sheet/
 
 [^21]: https://admin.salesforce.com/blog/2021/use-this-free-labs-app-to-audit-your-reporting-permissions
 
