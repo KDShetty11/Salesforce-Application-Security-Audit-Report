@@ -22,8 +22,8 @@ This repository contains a comprehensive security analysis of Salesforce Cloud i
 
 | Vulnerability | Impact | Prevalence |
 | :-- | :-- | :-- |
-| No Multi-Factor Auth (MFA) | Enabled credential theft attacks | 100% of cases [^5] |
-| Weak Password Policies | 8-character minimum without complexity | 80% of orgs |
+| No Multi-Factor Auth (MFA) | Enabled credential theft attacks | 63% of cases [^5] |
+| Weak Password Policies | 8-character minimum without complexity | 80% of small-medium orgs |
 
 ### Access Control Gaps
 
