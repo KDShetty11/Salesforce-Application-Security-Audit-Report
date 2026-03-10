@@ -34,7 +34,7 @@ This repository contains a comprehensive security analysis of Salesforce Cloud i
 ### Monitoring Deficiencies
 
 - **Log Retention**: 30-day retention window delayed breach detection
-- **Real-Time Alerts**: Missing for 65% of high-risk activities [^1]
+- **Real-Time Alerts**: Missing for 65% of high-risk activities
 
 ---
 
@@ -52,7 +52,7 @@ The assessment combined industry-standard tools and procedures:
     - Tested session hijacking vulnerabilities in 15 custom portals
 3. **Code Security Analysis**
     - Scanned 50K+ lines of Apex code with Checkmarx
-    - Found XSS vulnerabilities in 15% of custom applications [^2]
+    - Found XSS vulnerabilities in 15% of custom applications
 
 ---
 
@@ -116,33 +116,5 @@ Security.updateMultiFactorAuthentication(mfaOptions);
 
 ---
 
-> This audit demonstrates that 83% of Salesforce vulnerabilities stem from misconfigured access controls and weak authentication. Proactive implementation of MFA and least privilege principles could prevent 92% of credential-based attacks [^4][^5].
-
-<div style="text-align: center">⁂</div>
-
-[^1]: Salesforce-app-audit-report.pdf
-
-[^2]: Salesforce%20app%20audit%20report.pdf
-
-[^3]: https://github.com/othneildrew/Best-README-Template
-
-[^6]: https://help.salesforce.com/s/articleView?id=sf.security_overview_auditing.htm\&language=en_US\&type=5
-
-[^7]: https://crmninjas.io/salesforce-security-audit/
-
-[^9]: https://www.salesforceben.com/how-to-perform-salesforce-audits-beyond-a-health-check/
-
-[^10]: https://thesalesforcefirst.com/salesforce-security-audit/
-
-[^12]: https://help.salesforce.com/apex/HTViewHelpDoc?id=sales.spiff_report_audit.htm
-
-[^14]: https://www.maine.gov/oit/sites/maine.gov.oit/files/inline-files/SalesforceGovExecutiveSummary.pdf
-
-[^16]: https://support.catonetworks.com/hc/en-us/articles/24373083875869-Configuring-the-Salesforce-Application-Control-via-API-with-Audit-Activities-Integrations
-
-[^18]: https://www.owndata.com/blog/when-sox-meets-salesforce-apps-navigating-compliance-from-an-auditors-perspective
-
-[^21]: https://admin.salesforce.com/blog/2021/use-this-free-labs-app-to-audit-your-reporting-permissions
-
-[^22]: https://onapsis.com/blog/salesforce-security-auditing-overview-login-history/
+> This audit demonstrates that 83% of Salesforce vulnerabilities stem from misconfigured access controls and weak authentication. Proactive implementation of MFA and least privilege principles could prevent 92% of credential-based attacks.
 
